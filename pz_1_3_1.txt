@@ -1,0 +1,9 @@
+git clone https://github.com/plyzhnuk/zavd2.git (стврили клон глобального репозторія)
+git add . (додати всі файли для відстеження)
+git status (переглядаємо стан файлів)
+git commit -m "First commit" (створили комміт)
+git push (скидаємо в глобальний репозиторій)
+git status (переглядаємо стан файлів)
+git commit -m "Second commit" (створили комміт)
+git push (скидаємо в глобальний репозиторій)
+
